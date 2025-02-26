@@ -41,6 +41,10 @@ interfacegan_aligned_edit_paths = {
 	'smile': Path('editing/interfacegan/boundaries/ffhq/Smiling_boundary.npy'),
 	'pose': Path('editing/interfacegan/boundaries/ffhq/pose_boundary.npy'),
 	'Male': Path('editing/interfacegan/boundaries/ffhq/Male_boundary.npy'),
+    # Adding interFace GAN+++ boudaries 
+    'oval_face': Path('editing/interfacegan/boundaries/ffhq/boundary_Oval_Face.npy'),
+	'big_nose': Path('editing/interfacegan/boundaries/ffhq/boundary_Big_Nose.npy'),
+	'big_lips': Path('editing/interfacegan/boundaries/ffhq/boundary_Big_Lips.npy'),
 }
 
 interfacegan_unaligned_edit_paths = {

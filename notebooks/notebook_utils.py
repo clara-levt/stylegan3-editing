@@ -17,7 +17,11 @@ INTERFACEGAN_PATHS = {
     "age": {'id': '1NQVOpKX6YZKVbz99sg94HiziLXHMUbFS', 'name': 'age_boundary.npy'},
     "smile": {'id': '1KgfJleIjrKDgdBTN4vAz0XlgSaa9I99R', 'name': 'Smiling_boundary.npy'},
     "pose": {'id': '1nCzCR17uaMFhAjcg6kFyKnCCxAKOCT2d', 'name': 'pose_boundary.npy'},
-    "Male": {'id': '18dpXS5j1h54Y3ah5HaUpT03y58Ze2YEY', 'name': 'Male_boundary.npy'}
+    "Male": {'id': '18dpXS5j1h54Y3ah5HaUpT03y58Ze2YEY', 'name': 'Male_boundary.npy'},
+    # Adding interFace GAN+++ boudaries
+    "oval_face": {'id': '1CgRjliZJxVBSPnjtMrc2yjp2Ism14Gp6', 'name': 'boundary_Oval_Face.npy'},
+    "big_nose": {'id': '1AjQ9Lo3GGIJFf0r-l_Ip8AdshKcFbgRA', 'name': 'boundary_Big_Nose'},
+    "big_lips": {'id':'1Sp1-gv7VN3kJfTKRxbbVLg1u3Vn_dSZ-','name':'boundary_Big_Lips'}
 }
 STYLECLIP_PATHS = {
     "delta_i_c": {"id": "1HOUGvtumLFwjbwOZrTbIloAwBBzs2NBN", "name": "delta_i_c.npy"},

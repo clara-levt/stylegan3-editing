@@ -23,6 +23,10 @@ class FaceEditor:
             'smile': torch.from_numpy(np.load(paths['smile'])).cuda(),
             'pose': torch.from_numpy(np.load(paths['pose'])).cuda(),
             'Male': torch.from_numpy(np.load(paths['Male'])).cuda(),
+            # Adding interFace GAN+++ boudaries
+            'oval_face': torch.from_numpy(np.load(paths['oval_face'])).cuda(),
+            'big_nose': torch.from_numpy(np.load(paths['big_nose'])).cuda(),
+            'big_lips': torch.from_numpy(np.load(paths['big_lips'])).cuda(),
         }
 
     def edit(self, latents: torch.tensor, direction: str, factor: int = 1, factor_range: Optional[Tuple[int, int]] = None,
