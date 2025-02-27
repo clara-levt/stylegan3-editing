@@ -20,8 +20,8 @@ INTERFACEGAN_PATHS = {
     "Male": {'id': '18dpXS5j1h54Y3ah5HaUpT03y58Ze2YEY', 'name': 'Male_boundary.npy'},
     # Adding interFace GAN+++ boudaries
     "oval_face": {'id': '1CgRjliZJxVBSPnjtMrc2yjp2Ism14Gp6', 'name': 'boundary_Oval_Face.npy'},
-    "big_nose": {'id': '1AjQ9Lo3GGIJFf0r-l_Ip8AdshKcFbgRA', 'name': 'boundary_Big_Nose'},
-    "big_lips": {'id':'1Sp1-gv7VN3kJfTKRxbbVLg1u3Vn_dSZ-','name':'boundary_Big_Lips'}
+    "big_nose": {'id': '1AjQ9Lo3GGIJFf0r-l_Ip8AdshKcFbgRA', 'name': 'boundary_Big_Nose.npy'},
+    "big_lips": {'id':'1Sp1-gv7VN3kJfTKRxbbVLg1u3Vn_dSZ-','name':'boundary_Big_Lips.npy'}
 }
 STYLECLIP_PATHS = {
     "delta_i_c": {"id": "1HOUGvtumLFwjbwOZrTbIloAwBBzs2NBN", "name": "delta_i_c.npy"},
