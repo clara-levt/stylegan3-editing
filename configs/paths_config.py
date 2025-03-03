@@ -91,3 +91,4 @@ interfacegan_unaligned_edit_paths = {
     'high_cheekbones':Path('editing/interfacegan/boundaries/ffhqu/High_Cheekbones_boundary.npy'),
     'bushy_eyebrows': Path('editing/interfacegan/boundaries/ffhqu/Bushy_Eyebrows_boundary.npy')
 }
+

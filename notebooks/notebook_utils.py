@@ -40,6 +40,7 @@ INTERFACEGAN_PATHS = {
     'high_cheekbones': {'id':'1E2UqQyomIB_aGlk99Q8WpRZe9hv2zW6V','name':'High_Cheekbones_boundary.npy'},
     'bushy_eyebrows': {'id':'1kC575Fn_co8zwf9fWgyOi-lyKO6dZwum','name':'Bushy_Eyebrows_boundary.npy'},
 }
+
 STYLECLIP_PATHS = {
     "delta_i_c": {"id": "1HOUGvtumLFwjbwOZrTbIloAwBBzs2NBN", "name": "delta_i_c.npy"},
     "s_stats": {"id": "1FVm_Eh7qmlykpnSBN1Iy533e_A2xM78z", "name": "s_stats"},
