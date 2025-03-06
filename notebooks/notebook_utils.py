@@ -18,7 +18,6 @@ INTERFACEGAN_PATHS = {
     "smile": {'id': '1KgfJleIjrKDgdBTN4vAz0XlgSaa9I99R', 'name': 'Smiling_boundary.npy'},
     "pose": {'id': '1nCzCR17uaMFhAjcg6kFyKnCCxAKOCT2d', 'name': 'pose_boundary.npy'},
     "Male": {'id': '18dpXS5j1h54Y3ah5HaUpT03y58Ze2YEY', 'name': 'Male_boundary.npy'},
-    # Adding interFace GAN+++ boudaries
     "oval_face": {'id': '1Q_BuZS42b81hbf2xKO1syI72ZLzk4RYf', 'name': 'Oval_Face_boundary.npy'},
     "big_nose": {'id': '1is7BUj5D6FCSi2iqRLudRyHFQwjgW3g6', 'name': 'Big_Nose_boundary.npy'},
     "big_lips": {'id':'1QCAVpzdsiZo-DV4aBaaTWdG1_2vypepo','name':'Big_Lips_boundary.npy'},
@@ -39,6 +38,23 @@ INTERFACEGAN_PATHS = {
     'double_chin': {'id':'1qynI23Hwe_vxa9KCrApldJR-n7JIydqC','name':'Double_Chin_boundary.npy'},
     'high_cheekbones': {'id':'1PEbv_ZJlFmX024M2LUw-CizyYpx0RhNP','name':'High_Cheekbones_boundary.npy'},
     'bushy_eyebrows': {'id':'1xn0PK6cPlGyAewCv3wwjJfKGijratT0m','name':'Bushy_Eyebrows_boundary.npy'},
+    'bag_under_eyes': {'id': '17hlOWvtmy4k6vPSW4VHM1H9a91_yWnry', 'name':'Bags_Under_Eyes_boundary.npy'},
+    'bald': {'id': '1L7_4oZg3ZpMJUCVm_x5dnwn_CwEok53d', 'name':'Bald_boundary.npy'},
+    'bangs': {'id': '1S28ypNw3Jcha2eYi0cvCrFWPamc-CN-A', 'name':'Bangs_boundary.npy'},
+    'blurry': {'id': '1fKpf_RIVZDt4TsjkSldmUdNDnNLn2dET', 'name':'Blurry_boundary.npy'},
+    'eyeglasses': {'id': '1dlU6784majdxK4SCJHE-bi1R8xtKj8Te', 'name':'Eyeglasses_boundary.npy'},
+    'goatee': {'id': '1j8Rid6wzNLCqMHY4NEyhB8h7f4p3sfJ-', 'name':'Goatee_boundary.npy'},
+    'gray_hair': {'id': '1gIatWkOWXIlBkL13JWcyV2rwrBhiz3DY', 'name':'Gray_Hair_boundary.npy'},
+    'heavy_makeup': {'id': '1QCkrUme6P_u22QDYONxbz7mwCJ04gNUE', 'name':'Heavy_Makeup_boundary.npy'},
+    'mustache': {'id': '1-D1nLbpsalE5BJnpndFjFA3EFa4GLCGu', 'name':'Mustache_boundary.npy'},
+    'no_beard': {'id': '1vdkKTVa-R0AZJUJb8bEdGB-EvVjzSyld', 'name':'No_Beard_boundary.npy'},
+    'receding_hairline': {'id': '1OmxR-W5X2gLCLjF614WE1qqZQVUbf3wi', 'name':'Receding_Hairline_boundary.npy'},
+    'sideburns': {'id': '1fW-lIkTpxkB19mLfxLhNg-5If23omkbZ', 'name':'Sideburns_boundary.npy'},
+    'wear_earrings': {'id': '1IqTWyBJlHE-vVB8nZR6I4iKs4WjA0ip9', 'name':'Wearing_Earrings_boundary.npy'},
+    'wear_hat': {'id': '1A9WdZqUthnqoeW0z3vKNFndPCESn9yhg', 'name':'Wearing_Hat_boundary.npy'},
+    'wear_necklace': {'id': '18k6TL57v4pNfvwinrxNLZBPBvILFnbB3', 'name':'Wearing_Necklace_boundary.npy'},
+    'wear_necktie': {'id': '1rpy2de4DyWU2nyJ8vUvU6Ql9Pvtx6PsP', 'name':'Wearing_Necktie_boundary.npy'},
+    'young': {'id':'1fhWCycvB6k2QWKpQp-glHd4EsGE5Tur8', 'name':'Young_boundary.npy'},
 }
 
 STYLECLIP_PATHS = {

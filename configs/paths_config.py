@@ -41,7 +41,6 @@ interfacegan_aligned_edit_paths = {
 	'smile': Path('editing/interfacegan/boundaries/ffhq/Smiling_boundary.npy'),
 	'pose': Path('editing/interfacegan/boundaries/ffhq/pose_boundary.npy'),
 	'Male': Path('editing/interfacegan/boundaries/ffhq/Male_boundary.npy'),
-    # Adding interFace GAN+++ boudaries 
     'oval_face': Path('editing/interfacegan/boundaries/ffhq/Oval_Face_boundary.npy'),
 	'big_nose': Path('editing/interfacegan/boundaries/ffhq/Big_Nose_boundary.npy'),
 	'big_lips': Path('editing/interfacegan/boundaries/ffhq/Big_Lips_boundary.npy'),
@@ -61,7 +60,24 @@ interfacegan_aligned_edit_paths = {
     'chubby': Path('editing/interfacegan/boundaries/ffhq/Chubby_boundary.npy'),
     'double_chin': Path('editing/interfacegan/boundaries/ffhq/Double_Chin_boundary.npy'),
     'high_cheekbones':Path('editing/interfacegan/boundaries/ffhq/High_Cheekbones_boundary.npy'),
-    'bushy_eyebrows': Path('editing/interfacegan/boundaries/ffhq/Bushy_Eyebrows_boundary.npy')
+    'bushy_eyebrows': Path('editing/interfacegan/boundaries/ffhq/Bushy_Eyebrows_boundary.npy'),
+    'bag_under_eyes': Path('editing/interfacegan/boundaries/ffhq/Bags_Under_Eyes_boundary.npy'),
+    'bald': Path('editing/interfacegan/boundaries/ffhq/Bald_boundary.npy'),
+    'bangs': Path('editing/interfacegan/boundaries/ffhq/Bangs_boundary.npy'),
+    'blurry': Path('editing/interfacegan/boundaries/ffhq/Blurry_boundary.npy'),
+    'eyeglasses': Path('editing/interfacegan/boundaries/ffhq/Eyeglasses_boundary.npy'),
+    'goatee': Path('editing/interfacegan/boundaries/ffhq/Goatee_boundary.npy'),
+    'gray_hair': Path('editing/interfacegan/boundaries/ffhq/Gray_Hair_boundary.npy'),
+    'heavy_makeup': Path('editing/interfacegan/boundaries/ffhq/Heavy_Makeup_boundary.npy'),
+    'mustache': Path('editing/interfacegan/boundaries/ffhq/Mustache_boundary.npy'),
+    'no_beard': Path('editing/interfacegan/boundaries/ffhq/No_Beard_boundary.npy'),
+    'receding_hairline': Path('editing/interfacegan/boundaries/ffhq/Receding_Hairline_boundary.npy'),
+    'sideburns': Path('editing/interfacegan/boundaries/ffhq/Sideburns_boundary.npy'),
+    'wear_earrings': Path('editing/interfacegan/boundaries/ffhq/Wearing_Earrings_boundary.npy'),
+    'wear_hat': Path('editing/interfacegan/boundaries/ffhq/Wearing_Hat_boundary.npy'),
+    'wear_necklace': Path('editing/interfacegan/boundaries/ffhq/Wearing_Necklace_boundary.npy'),
+    'wear_necktie': Path('editing/interfacegan/boundaries/ffhq/Wearing_Necktie_boundary.npy'),
+    'young': Path('editing/interfacegan/boundaries/ffhq/Young_boundary.npy'),
 }
 
 interfacegan_unaligned_edit_paths = {
@@ -69,7 +85,6 @@ interfacegan_unaligned_edit_paths = {
 	'smile': Path('editing/interfacegan/boundaries/ffhqu/Smiling_boundary.npy'),
 	'pose': Path('editing/interfacegan/boundaries/ffhqu/pose_boundary.npy'),
 	'Male': Path('editing/interfacegan/boundaries/ffhqu/Male_boundary.npy'),
-     # Adding interFace GAN+++ boudaries 
     'oval_face': Path('editing/interfacegan/boundaries/ffhqu/Oval_Face_boundary.npy'),
 	'big_nose': Path('editing/interfacegan/boundaries/ffhqu/Big_Nose_boundary.npy'),
 	'big_lips': Path('editing/interfacegan/boundaries/ffhqu/Big_Lips_boundary.npy'),
@@ -89,6 +104,23 @@ interfacegan_unaligned_edit_paths = {
     'chubby': Path('editing/interfacegan/boundaries/ffhqu/Chubby_boundary.npy'),
     'double_chin': Path('editing/interfacegan/boundaries/ffhqu/Double_Chin_boundary.npy'),
     'high_cheekbones':Path('editing/interfacegan/boundaries/ffhqu/High_Cheekbones_boundary.npy'),
-    'bushy_eyebrows': Path('editing/interfacegan/boundaries/ffhqu/Bushy_Eyebrows_boundary.npy')
+    'bushy_eyebrows': Path('editing/interfacegan/boundaries/ffhqu/Bushy_Eyebrows_boundary.npy'),
+     'bag_under_eyes': Path('editing/interfacegan/boundaries/ffhqu/Bags_Under_Eyes_boundary.npy'),
+    'bald': Path('editing/interfacegan/boundaries/ffhqu/Bald_boundary.npy'),
+    'bangs': Path('editing/interfacegan/boundaries/ffhqu/Bangs_boundary.npy'),
+    'blurry': Path('editing/interfacegan/boundaries/ffhqu/Blurry_boundary.npy'),
+    'eyeglasses': Path('editing/interfacegan/boundaries/ffhqu/Eyeglasses_boundary.npy'),
+    'goatee': Path('editing/interfacegan/boundaries/ffhqu/Goatee_boundary.npy'),
+    'gray_hair': Path('editing/interfacegan/boundaries/ffhqu/Gray_Hair_boundary.npy'),
+    'heavy_makeup': Path('editing/interfacegan/boundaries/ffhqu/Heavy_Makeup_boundary.npy'),
+    'mustache': Path('editing/interfacegan/boundaries/ffhqu/Mustache_boundary.npy'),
+    'no_beard': Path('editing/interfacegan/boundaries/ffhqu/No_Beard_boundary.npy'),
+    'receding_hairline': Path('editing/interfacegan/boundaries/ffhqu/Receding_Hairline_boundary.npy'),
+    'sideburns': Path('editing/interfacegan/boundaries/ffhqu/Sideburns_boundary.npy'),
+    'wear_earrings': Path('editing/interfacegan/boundaries/ffhqu/Wearing_Earrings_boundary.npy'),
+    'wear_hat': Path('editing/interfacegan/boundaries/ffhqu/Wearing_Hat_boundary.npy'),
+    'wear_necklace': Path('editing/interfacegan/boundaries/ffhqu/Wearing_Necklace_boundary.npy'),
+    'wear_necktie': Path('editing/interfacegan/boundaries/ffhqu/Wearing_Necktie_boundary.npy'),
+    'young': Path('editing/interfacegan/boundaries/ffhqu/Young_boundary.npy'),
 }
 
